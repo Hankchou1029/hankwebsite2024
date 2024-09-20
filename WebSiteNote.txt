@@ -1,3 +1,5 @@
 打開終端機
 git config --global user.name Hankchou1029
 git config --global user.email nimo5487@gmail.com
+
+加入css檔，去csstutorial看題庫，要被題庫答案考試
