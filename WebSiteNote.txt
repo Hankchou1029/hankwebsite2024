@@ -3,3 +3,11 @@ git config --global user.name Hankchou1029
 git config --global user.email nimo5487@gmail.com
 
 加入css檔，去csstutorial看題庫，要被題庫答案考試
+
+下載live server 然后開始使用
+body{     background: #000; } .white{     color:#fff; } 
+#main{     width: 680px;     background: #fff;     margin: 0 auto; }
+header{     background: url("../images/tokyo.jpg");     
+border: solid #fff 3px;     
+padding: 5px 0px 10px 0px;  }
+這段程式碼可以控制背景顔色邊框等等
